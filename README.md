@@ -1,6 +1,4 @@
-# Expo Router Typescript
-
-@thedevenviroment
+# TestApp
 
 [__1. Introduction__](#introduction)
 
@@ -48,22 +46,25 @@ b. `src` Directory:
 
 a. Clone this repo to your local machine:
 ```
-git clone git@github.com:thedevenvironment/expo-router-typescript.git
+git clone git@github.com:SHni99/TestApp.git
 ```
 
 b. Install dependencies:
 ```
-npm run setup
+npm install
 ```
 
 c. Start the dev server:
 ```
-npm run dev
+npx expo start
 ```
 
 d. Press `s` to switch to expo Go
 
-e. Choose your platform 
+e. Choose ios simulator
+- `shift` + `i` to select between models
+
+f. Choose your platform 
 - `a` - android
 - `i` - ios
 - `w` - web
